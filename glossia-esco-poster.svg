@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg18445"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pilsen2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="524.91007"
+     inkscape:cy="676.8252"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs18447">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5646"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9593">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9595" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop9597" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.37559048,0,0,0.37559048,-36.528091,9.4378703)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient9593"
+       id="linearGradient9599"
+       x1="513.23291"
+       y1="554.19702"
+       x2="273.81146"
+       y2="140.03445"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.37559048,0,0,0.37559048,-35.633592,10.790109)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient9593"
+       id="linearGradient9599-2"
+       x1="513.23291"
+       y1="554.19702"
+       x2="273.81146"
+       y2="140.03445"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(-0.37559048,0,0,-0.33792224,181.20828,206.40034)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient9593"
+       id="linearGradient9599-2-8"
+       x1="601.80432"
+       y1="129.9113"
+       x2="120.95432"
+       y2="320.03445"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       id="clipPath21196"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path21198"
+         d="m 1259.484,2324.421 321.512,0 0,-99.398 -321.512,0 0,99.398 z" />
+    </clipPath>
+    <mask
+       id="mask21202"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <image
+         id="image21204"
+         xlink:href="data:image/png;base64,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"
+         preserveAspectRatio="none"
+         height="1"
+         width="1" />
+    </mask>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5705"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5707" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5683"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5685" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5413"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4-0"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4-8"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0-4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4-8-5"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0-4-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4-8-4"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0-4-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4-01"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4-3"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0-14" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813-4-0-6"
+       x="-0.37200001"
+       width="1.744"
+       y="-0.37200001"
+       height="1.744">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.294017"
+         id="feGaussianBlur4815-0-6-5" />
+    </filter>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5646-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata18450">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4226"
+       xml:space="preserve"
+       transform="matrix(0.30049548,0,0,0.30049548,220.48308,284.76409)"><flowRegion
+         id="flowRegion4228"><rect
+           y="834.16925"
+           x="-480.83261"
+           height="165.66502"
+           width="650.53821"
+           id="rect4230" /></flowRegion><flowPara
+         id="flowPara4232">Code is written and run as normal, but with parameters and subdomain IDs provided by Go-Smart Python modules. These, in turn, read parameters from local YAML files.</flowPara></flowRoot>    <g
+       transform="matrix(0.64376623,0,0,0.61059739,2.4768543,-13.614273)"
+       id="g19225">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffd385;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8190-7"
+         sodipodi:sides="7"
+         sodipodi:cx="290.92392"
+         sodipodi:cy="273.53458"
+         sodipodi:r1="148.35492"
+         sodipodi:r2="74.17746"
+         sodipodi:arg1="0.86733988"
+         sodipodi:arg2="1.3161388"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 386.88841,386.67166 -124.58574,32.43079 -103.03336,-77.18478 -3.89475,-128.67865 98.17668,-83.27486 126.31907,24.83659 59.34062,114.24559 z"
+         transform="matrix(0.37263989,0.09679665,-0.09679665,0.37263989,-11.259362,-16.057426)" />
+      <path
+         style="opacity:1;fill:#e09500;fill-opacity:1;stroke:#a75d00;stroke-width:3.75590444;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31666667"
+         d="m 72.882306,55.864547 -43.553093,21.002257 -10.735138,47.145406 30.166811,37.78866 48.352873,-0.0249 16.761091,-21.04077 7.80854,4.82729 -22.005787,28.83464 -53.875224,0 -13.279178,-19.72877 -9.485128,29.59315 118.753347,0 -14.61062,-60.22872 -10.7234,-47.210693 z"
+         id="path8190"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8190-3"
+         sodipodi:sides="7"
+         sodipodi:cx="290.92392"
+         sodipodi:cy="273.53458"
+         sodipodi:r1="148.35492"
+         sodipodi:r2="74.17746"
+         sodipodi:arg1="0.86733988"
+         sodipodi:arg2="1.3161388"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 386.88841,386.67166 -124.58574,32.43079 -103.03336,-77.18478 -3.89475,-128.67865 98.17668,-83.27486 126.31907,24.83659 59.34062,114.24559 z"
+         transform="matrix(0.28101146,-0.07299532,-0.07299532,-0.28101146,12.008212,210.15766)" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 74.996606,145.27692 c 0,0 -6.070409,4.17387 13.279178,-3.0348 19.349586,-7.20867 14.416956,-31.87004 14.416956,-34.14646 0,-2.27642 -11.760986,-18.211635 -14.579616,-30.590845 -2.81863,-12.379211 6.957832,-39.071088 6.957832,-39.071088 L 53.71103,38.333497 c 0,0 9.110469,26.698209 6.292215,39.077424 -2.818258,12.37921 -14.579987,28.314419 -14.579987,30.590839 0,2.27643 -4.932634,26.93706 14.41695,34.14573 19.349592,7.20867 13.279178,3.03553 13.279178,3.03553"
+         id="path8224"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccccssc" />
+      <path
+         style="opacity:1;fill:url(#linearGradient9599);fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 74.616036,60.986469 -39.833962,19.208809 -9.818431,43.119512 27.590775,34.56177 44.223871,-0.0228 15.329811,-19.24403 13.97102,5.17388 -23.16188,32.40468 -62.17438,0.75881 -7.592385,-13.45309 -4.12232,18.68109 108.612635,0 -13.36298,-58.84151 -9.80769,-43.179225 z"
+         id="path8190-33"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <path
+         style="fill:#d82121;fill-opacity:1;fill-rule:evenodd;stroke:#ff4a4a;stroke-width:3.75590444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
+         d="m 87.182294,135.45855 c 17.690236,-6.276 13.105566,-28.97109 13.105566,-31.04044 0,-2.06936 -10.691188,-16.555077 -13.253429,-27.808252 C 84.472187,65.356679 93.359368,41.09274 93.359368,41.09274 l -37.59776,-0.09111 c 0,0 8.281766,24.269694 5.719863,35.522877 -2.561906,11.253175 -13.253769,25.738893 -13.253769,27.808243 0,2.06936 -4.426638,24.33499 13.105561,31.03977 6.96622,2.66408 8.516278,2.78807 12.924516,2.8021 4.40225,0.014 4.345833,0.3274 12.924515,-2.71607 z"
+         id="path8224-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccccssas" />
+      <path
+         style="opacity:1;fill:url(#linearGradient9599-2);fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 113.0026,139.96197 13.97102,5.17388 -23.16188,32.40468 c -121.206211,-10.46966 -59.549338,5.98681 34.72355,5.98681 C 78.517433,-69.822767 4.6063644,276.03546 113.0026,139.96197 Z"
+         id="path8190-33-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:0.40200004;fill:url(#linearGradient9599-2-8);fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 32.572092,90.183221 23.37653,1.154629 c 0,0 99.850608,-63.100534 -48.90922,-40.350797 60.017856,227.941437 139.240578,-35.046151 25.53269,39.196168 z"
+         id="path8190-33-9-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       transform="matrix(1.1249283,0,0,1.1249283,-85.345318,-104.67191)"
+       id="g19247">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="178.7767"
+         y="145.30614"
+         id="text19235"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan19237"
+           x="178.7767"
+           y="145.30614">Go-Smart Glossia</tspan></text>
+      <g
+         id="g19243">
+        <text
+           sodipodi:linespacing="125%"
+           id="text19239"
+           y="160.42772"
+           x="182.03098"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.14800835px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="160.42772"
+             x="182.03098"
+             id="tspan19241"
+             sodipodi:role="line">A Tool To Separate Web-user, Manufacturer and Researcher Concerns Through Extensible Simulation Containerization</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g21192"
+       transform="matrix(0.32666184,0,0,-0.32666184,213.2739,784.31021)">
+      <g
+         clip-path="url(#clipPath21196)"
+         id="g21194">
+        <g
+           transform="matrix(321.51065,0,0,99.398334,1259.4843,2225.0226)"
+           id="g21200">
+          <image
+             id="image21206"
+             mask="url(#mask21202)"
+             xlink:href="data:image/png;base64,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"
+             transform="matrix(1,0,0,-1,0,1)"
+             preserveAspectRatio="none"
+             height="1"
+             width="1" />
+        </g>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32370"
+       y="163.42796"
+       x="16.406101"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="163.42796"
+         x="16.406101"
+         id="tspan32372"
+         sodipodi:role="line">What is Glossia?</tspan></text>
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:League Gothic;font-style:normal;font-weight:normal;font-size:37.5px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:League Gothic;font-stretch:normal;font-variant:normal"
+       id="flowRoot32378"
+       xml:space="preserve"><flowRegion
+         id="flowRegion32380"><rect
+           y="189.69193"
+           x="48.487324"
+           height="60.609154"
+           width="375.77673"
+           id="rect32382" /></flowRegion><flowPara
+         id="flowPara32384" /></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.84679222px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot32390"
+       xml:space="preserve"><flowRegion
+         id="flowRegion32392"><rect
+           style="font-size:20.84679222px"
+           y="174.48883"
+           x="34.66357"
+           height="57.278954"
+           width="254.38596"
+           id="rect32394" /></flowRegion><flowPara
+         id="flowPara32396">Glossia is an open source tool to manage simulation execution, locally or in the cloud.</flowPara></flowRoot>    <flowRoot
+       transform="translate(0,-10)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9634943px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4194"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4196"><rect
+           style="text-align:justify;text-anchor:start"
+           y="242.22041"
+           x="35.403915"
+           height="84.411865"
+           width="249.37178"
+           id="rect4198" /></flowRegion><flowPara
+         id="flowPara4200">Simulations can be run offline or remotely and easily switched between the two, with near-identical environments.</flowPara><flowPara
+         id="flowPara4202" /><flowPara
+         id="flowPara4204">To achieve this, Glossia abstracts external parameters such as case-specific input, to help de-couple code from settings in a way that is reproducible whether on a laptop, on a remote computational machine or on a web platform.</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text32428"
+       y="169.33174"
+       x="389.43002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="169.33174"
+         x="389.43002"
+         id="tspan32430"
+         sodipodi:role="line">Simulation Families</tspan></text>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4206"
+       xml:space="preserve"
+       transform="matrix(0.34109824,0,0,0.34109824,318.99359,50.79431)"><flowRegion
+         id="flowRegion4208"><rect
+           y="386.64792"
+           x="205.71428"
+           height="455.3389"
+           width="1004.9957"
+           id="rect4210" /></flowRegion><flowPara
+         style="font-size:25.88551903px;text-align:justify;text-anchor:start"
+         id="flowPara4212">While Glossia provides support for uploading executable configuration, the actual numerical codes are made available to end users by white-listing numerical tools. These are wrapped in Docker containers, using a basic Python API to interact with Glossia - these containers are referred to as &quot;families&quot; and containers for new numerical tools may be built quickly from existing templates. Glossia's AGPL license does not affect the licensing of codes within containers.</flowPara><flowPara
+         style="font-size:25.88551903px;text-align:justify;text-anchor:start"
+         id="flowPara32462" /><flowPara
+         style="font-size:25.88551903px;text-align:justify;text-anchor:start"
+         id="flowPara32464">Open source families are available for FEniCS and Elmer. An industry project has also tested OpenFOAM. FEniCS is recommended, as it provides direct Python bindings, allowing interaction between orchestration and simulation modules. Elmer models are defined as an Elmer SIF, enhanced with Jinja2 templating.</flowPara><flowPara
+         style="font-size:25.88551903px;text-align:justify;text-anchor:start"
+         id="flowPara4214" /><flowPara
+         style="font-size:25.88551903px;text-align:justify;text-anchor:start"
+         id="flowPara4216">Using an optional template base container, the Glossia tool allows a set of regions to be defined externally (e.g. via a segmentation tool), automatically volumetrically meshed and referenced within the simulation code semantically. At present, in-progress feedback is via status updates, with expansion subject to security considerations.</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text32471"
+       y="482.36221"
+       x="32.857143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="482.36221"
+         x="32.857143"
+         id="tspan32473"
+         sodipodi:role="line">Running with Glossia</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32475"
+       y="506.07648"
+       x="34.57143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="506.07648"
+         x="34.57143"
+         id="tspan32477"
+         sodipodi:role="line">Simulations may be easily switched between four levels of configuration.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32479"
+       y="529.50507"
+       x="63.57143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="529.50507"
+         x="63.57143"
+         id="tspan32481"
+         sodipodi:role="line">Fully independent (development)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32483"
+       y="600.93365"
+       x="59.285713"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="600.93365"
+         x="59.285713"
+         id="tspan32485"
+         sodipodi:role="line">Containerized (testing/development)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32487"
+       y="668.79077"
+       x="60"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="668.79077"
+         x="60"
+         id="tspan32489"
+         sodipodi:role="line">Local/remote (debug/internal)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32491"
+       y="743.79077"
+       x="60.714291"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="743.79077"
+         x="60.714291"
+         id="tspan32493"
+         sodipodi:role="line">Platform-as-a-Service (cloud)</tspan></text>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4234"
+       xml:space="preserve"
+       transform="matrix(0.30105869,0,0,0.30105869,221.54846,289.17852)"><flowRegion
+         id="flowRegion4236"><rect
+           y="1052.3622"
+           x="-484.87323"
+           height="161.6244"
+           width="703.06616"
+           id="rect4238" /></flowRegion><flowPara
+         id="flowPara4240">The same code is run in the Docker container that will be used in deployment. The same parameters are used as in the previous step. Glossia is not run.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4242"
+       xml:space="preserve"
+       transform="matrix(0.26755577,0,0,0.26755577,201.82409,341.30883)"><flowRegion
+         id="flowRegion4244"><rect
+           y="1250.3521"
+           x="-480.83261"
+           height="193.9493"
+           width="771.75659"
+           id="rect4246" /></flowRegion><flowPara
+         id="flowPara4248">Glossia is run on the local machine or local network. A command line utility, glot, facilitates job submission, monitoring and (on local machine) direct retrieval of results or debugging output. Alternatively, Glossia can push results to a file server.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4250"
+       xml:space="preserve"
+       transform="matrix(0.26889046,0,0,0.26889046,208.96277,354.83986)"><flowRegion
+         id="flowRegion4252"><rect
+           y="1500.87"
+           x="-513.15747"
+           height="161.6244"
+           width="872.77179"
+           id="rect4254" /></flowRegion><flowPara
+         id="flowPara4256">Online service. Parameters may be set through the platform, linked with other components built by users of the platform (e.g. medical equipment profiles). The Python code bundle is uploaded to the server.</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text32591"
+       y="536.64795"
+       x="38.57143"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="536.64795"
+         x="38.57143"
+         id="tspan32593"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32595"
+       y="608.07648"
+       x="35.714287"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="608.07648"
+         x="35.714287"
+         id="tspan32597"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32599"
+       y="675.21936"
+       x="34.285713"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="675.21936"
+         x="34.285713"
+         id="tspan32601"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text32603"
+       y="742.36218"
+       x="28.571428"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="742.36218"
+         x="28.571428"
+         id="tspan32605"
+         sodipodi:role="line">4</tspan></text>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4258"
+       xml:space="preserve"
+       transform="matrix(0.21744435,0,0,0.21744435,158.58302,433.78603)"><flowRegion
+         id="flowRegion4260"><rect
+           y="1739.266"
+           x="-589.92908"
+           height="281.54028"
+           width="1149.3751"
+           id="rect4262" /></flowRegion><flowPara
+         id="flowPara4264">The system is designed to maximize environment p;arity between steps 2, 3 and 4. Image IDs of Glossia-FEniCS sandbox containers are contained within debug output and used to re-run simulations in an identical container locally as remotely.</flowPara><flowPara
+         id="flowPara4266" /><flowPara
+         id="flowPara4268">Command line scripts manage execution at each stage, and glot has built in commands to simplify transition.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4278"
+       xml:space="preserve"
+       transform="matrix(0.19201732,0,0,0.19201732,233.86895,494.38609)"><flowRegion
+         id="flowRegion4280"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan'"
+           y="2086.6479"
+           x="-508.57144"
+           height="481.08896"
+           width="764.08417"
+           id="rect4282" /></flowRegion><flowPara
+         style="-inkscape-font-specification:'League Gothic';font-family:'League Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4284">To allow interdependent components to be built into a single simulatable parameter set, a framework relating them is required.</flowPara><flowPara
+         style="-inkscape-font-specification:'League Gothic';font-family:'League Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4286" /><flowPara
+         style="-inkscape-font-specification:'League Gothic';font-family:'League Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4288">Each component supplies named parameters, some of which may be given by clinicians at simulation-time, some by researchers when defining the component.</flowPara><flowPara
+         style="-inkscape-font-specification:'League Gothic';font-family:'League Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4290" /><flowPara
+         style="-inkscape-font-specification:'League Gothic';font-family:'League Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4292">For each modality, that is, physically similar set of treatments, many models of needle and power generator exist.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4294"
+       xml:space="preserve"
+       transform="matrix(0.18061379,0,0,0.18061379,167.79631,510.69152)"><flowRegion
+         id="flowRegion4296"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold'"
+           y="2080.9336"
+           x="691.42859"
+           height="673.17151"
+           width="884.72211"
+           id="rect4298" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan'"
+         id="flowPara4300">The Clinical Domain Model (CDM) is largely independent of Glossia, and is not essential to use Glossia, but the XML input format for Glossia reflects the numerical model, parameter, needle separation - only as a pair is the flexibility in Go-Smart achievable.</flowPara><flowPara
+         id="flowPara4304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan'" /><flowPara
+         id="flowPara4306"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan'">Algorithms allow simulation parameters to be defined as simple functions of transient simulation variables, &quot;Arguments&quot;, (perhaps independently of the numerical model developer).</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4308"
+       xml:space="preserve"
+       transform="matrix(0.20077252,0,0,0.20077252,109.67843,388.18944)"><flowRegion
+         id="flowRegion4310"><rect
+           y="2636.2815"
+           x="-519.21838"
+           height="382.24536"
+           width="596.96246"
+           id="rect4312" /></flowRegion><flowPara
+         id="flowPara4314">E: Clinical Domain Model relationships. This shows the relationships in defining a simulatable Combination of components.</flowPara><flowPara
+         id="flowPara4316" /><flowPara
+         id="flowPara4318">The lines indicate links of components to each other (black) and, one-to-many, with parameters (green). The primary components are ringed in black and joined to the Combination with red lines.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4320"
+       xml:space="preserve"
+       transform="matrix(0.20077252,0,0,0.20077252,399.59221,401.32142)"><flowRegion
+         id="flowRegion4322"><rect
+           y="2959.5303"
+           x="-496.99506"
+           height="315.1676"
+           width="1527.3506"
+           id="rect4324" /></flowRegion><flowPara
+         id="flowPara4326">F: Components and their parameter values must be considered separately in the abstract (Abstract) , when a real-world case has been chosen (Case) and once a simulation has been defined (Simulation).</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4218"
+       xml:space="preserve"
+       transform="matrix(0.17892683,0,0,0.17892683,348.73589,175.67963)"><flowRegion
+         id="flowRegion4220"><rect
+           y="815.21936"
+           x="217.14285"
+           height="150.59349"
+           width="1960.2352"
+           id="rect4222" /></flowRegion><flowPara
+         id="flowPara4224">Technical summary: Glossia is managed via a WAMP router (e.g. Crossbar.io) allowing clients to be language independent and run remotely. WAMP is a WebSocket subprotocol. Interaction is via RPC and PubSub patterns. Simulation definition is in an XML format. Region definition is usually in STL or STEP format.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4328"
+       xml:space="preserve"
+       transform="matrix(0.24304837,0,0,0.24304837,246.18663,267.79955)"><flowRegion
+         id="flowRegion4330"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold'"
+           y="1084.6871"
+           x="529.31995"
+           height="1281.8558"
+           width="721.44952"
+           id="rect4332" /></flowRegion><flowPara
+         id="flowPara4334">This project has built a platform to help clinicians, researchers and product manufacturers interact online, primarily within the field of Minimally Invasive Cancer Treatments (MICTs).</flowPara><flowPara
+         id="flowPara4336" /><flowPara
+         id="flowPara4338">Clinicians use the platform in, e.g., clinical trials to upload patient data, manage it and perform intervention simulations.</flowPara><flowPara
+         id="flowPara4340" /><flowPara
+         id="flowPara4342">They segment data (B), run simulations (C) and may share datasets or perform validation on results.</flowPara><flowPara
+         id="flowPara4344" /><flowPara
+         id="flowPara4346">Researchers may add numerical models to the platform &amp; manufacturers add new equipment (D) or clinical protocols.</flowPara><flowPara
+         id="flowPara4348" /><flowPara
+         id="flowPara4350">Parameter values may be made adjustable by users at simulation-time, or predefined. Researchers may reuse existing numerical models and equipment to create new simulatable combinations.</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5397"
+       d="m 132.43348,381.00346 10.85339,6.26621 2.38766,1.3661"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83871061;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5705)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5399"
+       d="m 129.75826,387.30571 16.4514,2.08082"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83871061;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5401"
+       d="m 158.58312,385.68722 -10.92261,2.93864"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83871061;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5683)" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5155"
+       d="M 82.850159,378.84437 103.994,371.54974 140.51501,353.35827"
+       style="opacity:0.32400004;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.67742121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5153"
+       d="m 79.651507,348.26373 23.880933,11.27971 39.99147,-7.80445"
+       style="opacity:0.32400004;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.67742121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5187"
+       d="m 49.937188,368.87204 53.966492,-3.09818 41.5132,-14.29153"
+       style="opacity:0.35899999;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.67742121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5344"
+       d="m 160.02621,349.60932 32.99278,21.65905"
+       style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.67742121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="matrix(0.17120674,0,0,0.15907684,174.19144,346.63959)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6-3-1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4-0-6)" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5117-9"
+       d="m 208.73343,371.5077 29.62711,-2.47855 25.40094,11.50232"
+       style="opacity:0.28500001;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.67742121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="matrix(0.0861688,0,0,0.08006379,131.43559,371.04613)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813)" />
+    <circle
+       r="5.7611346"
+       cy="388.08798"
+       cx="144.47411"
+       id="path4756"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67742121;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817"
+       y="378.86151"
+       x="144.21553"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.06472397px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy';text-align:center;text-anchor:middle"
+         y="378.86151"
+         x="144.21553"
+         id="tspan4819"
+         sodipodi:role="line">DOCKERLAUNCH</tspan></text>
+    <circle
+       transform="matrix(0.0861688,0,0,0.08006379,62.500065,329.16308)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4)" />
+    <circle
+       r="5.7611346"
+       cy="346.20493"
+       cx="75.538582"
+       id="path4756-92"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67742121;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-9"
+       y="360.87445"
+       x="45.848763"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.06472397px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy';text-align:center;text-anchor:middle"
+         y="360.87445"
+         x="45.848763"
+         id="tspan4819-2"
+         sodipodi:role="line">OTHER SIMULATION</tspan></text>
+    <rect
+       ry="1.0237852"
+       rx="3.6052473"
+       y="329.2338"
+       x="21.833729"
+       height="71.608276"
+       width="152.57724"
+       id="rect4851"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.6775279;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       transform="matrix(0.14432685,0,0,0.13410137,130.99685,318.26619)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4-0)" />
+    <circle
+       r="9.6495075"
+       cy="346.81012"
+       cx="152.83548"
+       id="path4756-92-2"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.80956554;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       transform="matrix(0.0861688,0,0,0.08006379,277.36931,356.21749)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6-8"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4-8)" />
+    <circle
+       r="5.7611346"
+       cy="373.25934"
+       cx="290.40781"
+       id="path4756-92-6"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67742121;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-9-9"
+       y="368.02438"
+       x="265.8494"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.06472397px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy'"
+         y="368.02438"
+         x="265.8494"
+         id="tspan4819-2-4"
+         sodipodi:role="line">CLIENTS</tspan></text>
+    <circle
+       transform="matrix(0.0861688,0,0,0.08006379,257.23331,334.72498)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6-8-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4-8-5)" />
+    <circle
+       r="5.7611346"
+       cy="351.76685"
+       cx="270.27182"
+       id="path4756-92-6-2"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67742121;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       transform="matrix(0.0861688,0,0,0.08006379,252.91994,363.00151)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6-8-9"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4-8-4)" />
+    <circle
+       r="5.7611346"
+       cy="380.04337"
+       cx="265.95847"
+       id="path4756-92-6-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67742121;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-1-4"
+       y="347.06558"
+       x="236.5824"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.01352215px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;opacity:0.253;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy'"
+         y="347.06558"
+         x="236.5824"
+         id="tspan4819-0-0"
+         sodipodi:role="line">PLATFORM Client</tspan></text>
+    <circle
+       transform="matrix(0.0861688,0,0,0.08006379,67.387408,363.72878)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6-4"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4-01)" />
+    <circle
+       r="5.7611346"
+       cy="380.77063"
+       cx="80.425934"
+       id="path4756-92-4"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67742121;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-9-29"
+       y="396.10168"
+       x="80.527046"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.06472397px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy';text-align:center;text-anchor:middle"
+         y="396.10168"
+         x="80.527046"
+         id="tspan4819-2-3"
+         sodipodi:role="line">Elmer SIMULATION</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5117"
+       d="m 207.94163,371.60372 31.54416,-9.56118 25.40095,-11.50231"
+       style="opacity:0.28500001;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.67742121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5117-0"
+       d="m 207.92732,372.06978 30.91248,-6.47006 46.48853,6.23042"
+       style="opacity:0.28500001;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.67742121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="matrix(0.0861688,0,0,0.08006379,32.004163,352.52716)"
+       r="68.690376"
+       cy="209.50507"
+       cx="150"
+       id="path4756-9-6-0"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4813-4-3)" />
+    <circle
+       r="5.7611346"
+       cy="369.569"
+       cx="45.042667"
+       id="path4756-92-1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67742121;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-9-2-6"
+       y="366.62735"
+       x="142.07509"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.06472397px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#00aaaa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.38710594px;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy';fill:#00aaaa"
+         y="366.62735"
+         x="142.07509"
+         id="tspan4819-2-5-6"
+         sodipodi:role="line">GLOSSIA</tspan></text>
+    <circle
+       r="11.446662"
+       cy="380.30316"
+       cx="199.48904"
+       id="path4756-92-2-1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.33282804;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-9-2-3"
+       y="398.647"
+       x="198.9915"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.06472397px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy';text-align:center;text-anchor:middle"
+         y="398.647"
+         x="198.9915"
+         id="tspan4819-2-5-68"
+         sodipodi:role="line">WAMP ROUTER</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-1-4-6"
+       y="392.45645"
+       x="239.53201"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.01352215px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;opacity:0.253;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy'"
+         y="392.45645"
+         x="239.53201"
+         id="tspan4819-0-0-9"
+         sodipodi:role="line">COMMAND LINE</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4817-9-8"
+       y="336.32614"
+       x="75.377792"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.06472397px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans Heavy';text-align:center;text-anchor:middle"
+         y="336.32614"
+         x="75.377792"
+         id="tspan4819-2-33"
+         sodipodi:role="line">FENICS SIMULATION</tspan></text>
+    <g
+       id="g6180">
+      <rect
+         ry="6.2195125"
+         rx="6.2195125"
+         y="347.59625"
+         x="428.15344"
+         height="26.298601"
+         width="110.89773"
+         id="rect5551"
+         style="opacity:1;fill:#008080;fill-opacity:0.07142855;stroke:#000000;stroke-width:3.10975623;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="rect5551-5"
+         d="m 633.31352,358.707 0,16.48045 c 0,2.71963 -2.19128,4.90908 -4.9132,4.90908 l -201.50961,0 c -2.72191,0 -4.91319,-2.18945 -4.91319,-4.90908 l 0,-16.48045"
+         style="opacity:1;fill:none;fill-opacity:0.07142855;stroke:#000000;stroke-width:3.10975623;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5569"
+         y="357.30814"
+         x="434.40186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.83597946px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="357.30814"
+           x="434.40186"
+           id="tspan5571"
+           sodipodi:role="line">Existing Numerical Code</tspan><tspan
+           id="tspan5573"
+           y="370.37204"
+           x="434.40186"
+           sodipodi:role="line">[open or closed source]</tspan></text>
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5575"
+         y="373.86938"
+         x="544.90906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87040997px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="373.86938"
+           x="544.90906"
+           id="tspan5577"
+           sodipodi:role="line">Execution Script</tspan></text>
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5575-8"
+         y="359.12384"
+         x="544.70953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87040997px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="359.12384"
+           x="544.70953"
+           id="tspan5577-8"
+           sodipodi:role="line">Mode Configuration / Code</tspan></text>
+      <rect
+         y="348.34222"
+         x="542.88055"
+         height="12.967101"
+         width="78.432137"
+         id="rect5597"
+         style="opacity:1;fill:#008000;fill-opacity:0.07142855;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="363.16986"
+         x="542.59845"
+         height="12.967101"
+         width="78.432137"
+         id="rect5597-6"
+         style="opacity:1;fill:#aa4400;fill-opacity:0.07142855;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(0.99499795,1.0050272)"
+         sodipodi:linespacing="125%"
+         id="text5614"
+         y="368.60214"
+         x="658.52747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.82700062px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="368.60214"
+           x="658.52747"
+           id="tspan5616"
+           sodipodi:role="line">Glossia</tspan></text>
+      <rect
+         ry="3"
+         rx="3"
+         y="355.66147"
+         x="650.4812"
+         height="18.396767"
+         width="38.394596"
+         id="rect5551-4"
+         style="opacity:1;fill:#008080;fill-opacity:0.07142855;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5633"
+         y="391.35413"
+         x="491.32684"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87040997px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="391.35413"
+           x="491.32684"
+           id="tspan5635"
+           sodipodi:role="line">Simulation Container</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5637"
+         d="m 707.08022,351.72497 -83.99988,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5901"
+         y="349.93008"
+         x="650.04413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.91153145px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="349.93008"
+           x="650.04413"
+           id="tspan5903"
+           sodipodi:role="line">Model from client</tspan></text>
+    </g>
+    <g
+       id="g6155"
+       transform="translate(0,8)">
+      <rect
+         ry="6.219512"
+         rx="6.2195125"
+         y="399.30832"
+         x="427.52838"
+         height="35.693047"
+         width="110.89773"
+         id="rect5551-0"
+         style="opacity:1;fill:#008080;fill-opacity:0.07142855;stroke:#000000;stroke-width:3.10975623;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="rect5551-5-7"
+         d="m 632.68849,420.61605 0,16.48045 c 0,2.71963 -2.19128,4.90907 -4.9132,4.90907 l -201.50961,0 c -2.72191,0 -4.91319,-2.18944 -4.91319,-4.90907 l 0,-16.48045"
+         style="opacity:1;fill:none;fill-opacity:0.07142855;stroke:#000000;stroke-width:3.10975623;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5569-1"
+         y="409.0419"
+         x="433.77707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.83597946px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5573-3"
+           y="409.0419"
+           x="433.77707"
+           sodipodi:role="line">Available Python libraries:</tspan><tspan
+           id="tspan6025"
+           y="420.08688"
+           x="433.77707"
+           sodipodi:role="line">FEniCS, Numpy, Scipy</tspan><tspan
+           id="tspan6027"
+           y="431.13184"
+           x="433.77707"
+           sodipodi:role="line">  and other dependencies</tspan></text>
+      <rect
+         y="413.97638"
+         x="541.97345"
+         height="12.967101"
+         width="78.432137"
+         id="rect5597-6-7"
+         style="opacity:1;fill:#aa4400;fill-opacity:0.07142855;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5575-7"
+         y="423.50479"
+         x="544.29407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.24809265px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="423.50479"
+           x="544.29407"
+           id="tspan5577-9"
+           sodipodi:role="line">glossia-python-container-tools</tspan></text>
+      <rect
+         y="399.14874"
+         x="542.25555"
+         height="12.967101"
+         width="78.432137"
+         id="rect5597-68"
+         style="opacity:1;fill:#008000;fill-opacity:0.07142855;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5575-8-3"
+         y="408.74585"
+         x="544.14539"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.31652355px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="408.74585"
+           x="544.14539"
+           id="tspan5577-8-4"
+           sodipodi:role="line">User Python (FEniCS &amp;/ Numpy)</tspan></text>
+      <text
+         transform="scale(0.99499795,1.0050272)"
+         sodipodi:linespacing="125%"
+         id="text5614-9"
+         y="419.15451"
+         x="657.89935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.82700062px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="419.15451"
+           x="657.89935"
+           id="tspan5616-7"
+           sodipodi:role="line">Glossia</tspan></text>
+      <rect
+         ry="3"
+         rx="3"
+         y="406.46799"
+         x="649.8562"
+         height="18.396767"
+         width="38.394596"
+         id="rect5551-4-3"
+         style="opacity:1;fill:#008080;fill-opacity:0.07142855;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5633-0"
+         y="453.28912"
+         x="490.70206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87040997px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="453.28912"
+           x="490.70206"
+           id="tspan5635-8"
+           sodipodi:role="line">Glossia-FEniCS Container</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5637-6"
+         d="m 706.45519,402.5315 -83.99988,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5901-2"
+         y="400.40216"
+         x="645.98022"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.09214592px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="400.40216"
+           x="645.98022"
+           id="tspan5903-5"
+           sodipodi:role="line">Python bundle from client</tspan></text>
+      <rect
+         y="427.17279"
+         x="541.96533"
+         height="12.967101"
+         width="78.432137"
+         id="rect5597-6-7-0"
+         style="opacity:1;fill:#aa4400;fill-opacity:0.07142855;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="scale(1.0004194,0.99958078)"
+         sodipodi:linespacing="125%"
+         id="text5575-7-9"
+         y="436.70673"
+         x="544.28589"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.24809265px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="436.70673"
+           x="544.28589"
+           id="tspan5577-9-9"
+           sodipodi:role="line">Automated meshing tools</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:9,3;stroke-dashoffset:0"
+       d="m 393.95949,397.27826 329.81481,0"
+       id="path6201"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.7097559px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:start;text-align:justify;"
+       id="flowRoot4218-6"
+       xml:space="preserve"
+       transform="translate(389.01323,466.90754)"><flowRegion
+         id="flowRegion4220-9"><rect
+           y="-1.3281429"
+           x="-0.013370369"
+           height="26.945215"
+           width="350.73868"
+           id="rect4222-7"
+           style="text-anchor:start;text-align:justify;" /></flowRegion><flowPara
+         id="flowPara4224-4">Illustration of Simulation Families: upper is generic, new containers can be created without using any Glossia tools or libraries. A specific example is shown below, the Glossia-FEniCS container. Any Glossia tools intended for use inside the container are licensed to remain compatible with both open or closed licensing of in-container code and user code. In addition, user STL files and parameters are injected into the container by Glossia.</flowPara></flowRoot>  </g>
+</svg>
